@@ -1,0 +1,14 @@
+Ingenieria de software
+
+Alumno: Ezequiel Rodriguez
+
+Metricas para pruebas orientadas a objetos:
+Las metricas proporcionan indicios a la calidad de diseños, y a la vez sugiere un amplio arreglo de metricas de diseños que tienen influencia directa sobre la comprobabilidad del sistema.
+Tambien se centran en metricas que se pueden aplicar a las caracteristicas de encapsulamiento, ocultamiento de informacion, herencia y tecnicas de abstaccion de objetos que hagan unica a esa clase.
+Existen una familia de medidas:
+-Metodos ponderados por clase(MPC)
+-Profundidad arbol de herencia(PAH)
+-Numero de descendientes(NDD)
+-Acoplamiento entre clases(ACO)
+-Respuesta para una clase(RPC)
+-Carencia de cohension en los metodos(CCM)
