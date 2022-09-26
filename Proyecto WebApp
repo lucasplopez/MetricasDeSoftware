@@ -1,0 +1,18 @@
+3ero de Desarrollo de Software
+Alumno: Lucas López
+Fecha: 26/09/2022
+
+
+Métricas de proyecto webapp.
+El autor menciona que utilizar métricas tradicionales en proyectos webapps resulta complicado puesto que los mismos son una combinación de contenido y funcionalidad. Es por ello que plantea una serie de medidas que pueden recopilarse:
+-Número de páginas web estáticas: mide la cantidad de páginas en la que el usuario no tiene control del contenido. El contenido no muta por las acciones de los usuarios
+-Número de páginas web dinámicas: son aquellas páginas con contenido dinámico, es decir que van cambiando dependendiendo de las acciones del usuarios. A mayor número de páginas web dinámicas, mayor complejidad de desarrollo.
+-Número de vínculos de página internos: lla cantidad de enlaces que vinculan las distintas páginas de una web apps indican el tamaño final que precisará la app.
+-Número de datos persistentes: a mayor cantidad de objetos de datos persistentes mayor tamaño de la app.
+-Número de sistemas externos puesto en interfaz: su conexión con otras aplicaciones externas también hacen crecer la complejidad del sofware
+-Número de objetos de contenido estáticos: cantidad de información estática basada en texto, gráfica, video, animación y audioestática que se incorporan dentro de la webapp.
+-Número de objetos de contenido dinámicos: cantidad de información dinámica basada en texto, gráfica, video, animación y audioestática que se incorporan dentro de la webapp.
+-Número de funciones ejecutables:mientras mayor número de funciones ejecutables, crece el esfuerzo de modelado y construcción.
+
+
+Todas estas mediciones luego pueden ser combinadas para calcular índices que ayuden con las métricas del software.
