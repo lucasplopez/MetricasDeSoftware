@@ -1,0 +1,2 @@
+2) a- Métrica orientada a tamaño: es una de las métricas más simples que se utiliza para medir y comparar la productividad de los programadores. Esta se basa en líneas de cálculos de código de experiencias pasasdas de organizaciones, donde esta última crea un registro simple de medida de tamaño para los proyectos de software.
+Las métricas orientada a tamaño no se aceptan universalmente como la mejor forma de medir el proceso de software ya que depende de cada lenguaje de programación.
